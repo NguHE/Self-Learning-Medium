@@ -1,5 +1,5 @@
 # Self-Learning-Medium
-Here are some free medium that I used to self-learning on data engineering skills.
+Here are some free medium that I used to self-learning on data science/ analyst/ engineering skills.
 
 1. [W3Schools](https://www.w3schools.com/)
 2. [Great Learning](https://www.mygreatlearning.com/)
